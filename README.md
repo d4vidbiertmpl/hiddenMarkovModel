@@ -9,5 +9,5 @@ My Approach of an Part of Speech-Tagger using a Hidden Markov Model. The HMM is 
 <li> Using numpy data structures
 <li> Save trained emission and transition probabilities
 <li> Better matrices organization
-<li><li> Lazy access... ?
+<li> Lazy access... ?
 
