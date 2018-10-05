@@ -5,8 +5,5 @@ My Approach implementing a Part-of-Speech (PoS) Tagger in Python from scratch us
 
 ## TODO:
 <li> General refactoring
-<li> Using numpy data structures
-<li> Save trained emission and transition probabilities
-<li> Better matrices organization
-<li> => Lazy loading/access... ? 
+<li> More efficient organisation of emission and transition probabilities
 
